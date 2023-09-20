@@ -1,6 +1,7 @@
 {
   "packs": [
-    "nanahira.json"
+    "nanahira.json",
+    "nobeta.json"
   ],
   "homeserver_url": "https://honk.li"
 }
